@@ -1,3 +1,3 @@
 my name is sushil pathak
 i am from syangja
-this is from feature_a
+this is feature_a
