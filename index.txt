@@ -1,3 +1,7 @@
 my name is sushil pathak
 i am from syangja
+<<<<<<< HEAD
 this is feature_a
+=======
+this is feature_b
+>>>>>>> feature_b
